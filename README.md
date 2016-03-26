@@ -321,6 +321,10 @@ wizard.on("reset", function() {
         <td>Triggers when the wizard is closed</td>
     </tr>
     <tr>
+        <td>next</td>
+        <td>Triggers when wizard's next button is pressed</td>
+    </tr>
+    <tr>
         <td>incrementCard</td>
         <td>Triggers  when the next card becomes the current card</td>
     </tr>

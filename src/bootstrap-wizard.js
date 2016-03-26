@@ -1127,6 +1127,7 @@
             else {
                 currentCard = this.incrementCard();
             }
+            this.trigger("next");
         },
 
         _onBackClick: function() {
